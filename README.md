@@ -1,7 +1,7 @@
 ## 👋 Welcome to my GitHub Profile!
 
-I'm **Roman Razumieienko**, a passionate Front-end Developer with over 14 years of hands-on experience in planning, coding,
-testing, and maintaining websites and applications. Based in Odesa, Ukraine, I thrive in both team environments and solo
+I'm **Roman Razumieienko**, a front-end developer with over 14 years of experience. I love tackling web projects from
+planning and coding to testing and maintenance. Based in Odesa, Ukraine, I thrive in both team environments and solo
 projects, always aiming to deliver high-quality results on time.
 
 ### 🔹 What I Do:
