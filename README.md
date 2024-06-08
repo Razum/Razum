@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub Profile!
 
-I'm **Roman Razumieienko**, a front-end developer with over 14 years of experience. I love tackling web projects from
+I'm **Roman**, a front-end developer with over 14 years of experience. I love tackling web projects from
 planning and coding to testing and maintenance. Based in Odesa, Ukraine, I thrive in both team environments and solo
 projects, always aiming to deliver high-quality results on time.
 
@@ -87,7 +87,9 @@ projects, always aiming to deliver high-quality results on time.
 
 Feel free to explore my repositories and connect with me on:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-razumieienko/) [![xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=Xing&logoColor=white)](https://www.xing.com/profile/Roman_Razumieienko) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:razumyeyenko@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-razumieienko/) [![xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=Xing&logoColor=white)](https://www.xing.com/profile/Roman_Razumieienko) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:razumyeyenko@gmail.com) [![wellfound](https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=Wellfound&logoColor=white)](https://wellfound.com/u/roman-razumeyenko)
+
+
 
 #### Let's build something amazing together!
 
